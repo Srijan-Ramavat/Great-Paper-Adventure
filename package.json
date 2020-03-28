@@ -1,0 +1,25 @@
+{
+  "name": "great-paper-adventure",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "dependencies": {
+    "client-sessions": "^0.8.0",
+    "body-parser": "^1.18.2",
+    "express": "^4.16.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@gitlab.com/srijan-ramavat/Great-Paper-Adventure.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://gitlab.com/srijan-ramavat/Great-Paper-Adventure/issues"
+  },
+  "homepage": "https://gitlab.com/srijan-ramavat/Great-Paper-Adventure#README"
+}
